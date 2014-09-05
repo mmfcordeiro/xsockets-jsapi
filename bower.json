@@ -1,0 +1,14 @@
+{
+  "name": "xsockets-jsapi",
+  "version": "3.0.3",
+  "description": "Provides a javascript API for sending text and binary messages to a XSockets server with a pub/sub pattern.",
+  "main": "XSockets.latest.js",
+  "keywords": [
+    "xsockets"
+  ],
+  "authors": [
+    "http://xsockets.net/"
+  ],
+  "license": "MIT",
+  "homepage": "http://xsockets.net/"
+}
